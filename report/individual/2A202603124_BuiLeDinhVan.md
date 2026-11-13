@@ -9,7 +9,7 @@
 - Mã đề (A/B/C): B
 - Email: builedinhvan@gmail.com
 - Link repository: https://github.com/DinhVann1703/K5-L2-DAY05-BuiLeDinhVan-2A202603124-MOTTracking
-- Giờ bắt đầu: 14:00 (13/11/2026)
+- Giờ bắt đầu: 16:00 (13/11/2026)
 - Giờ kết thúc: 17:45 (13/11/2026)
 
 ## 1. Xem trước đoạn video (CP0)
